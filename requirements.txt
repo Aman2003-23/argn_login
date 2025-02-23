@@ -4,4 +4,4 @@ nltk==3.8.1
 PyPDF2==3.0.1
 Flask-SQLAlchemy==2.5.1
 Flask-Bcrypt==1.0.1
-gunicorn
+gunicorn app:app
